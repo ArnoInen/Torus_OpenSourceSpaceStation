@@ -1,4 +1,4 @@
-# Torus_OpenSourceSpaceStation
+# Torus: Open Source Space Station Project
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
