@@ -1,0 +1,20 @@
+
+name = Innercoreshell
+module = Part
+author = Arno Inen
+type = cylinder
+mass = 15000.0 //kg
+length =	30.0 //m
+width	 = 12.0 //m
+radius = 6 //m
+pressurised_volume = 100.0 // m3 
+heatConductivity = 0.06 
+emissiveConstant = 0
+maxTemp = 500 // degrees
+costs = 1400000
+category = Module
+title = Core Module
+description = The core module of the torus space station
+attachmentPoints = 2
+attachmentType = IDA //https://en.wikipedia.org/wiki/International_Docking_Adapter
+materials = aluminium, stainless_steel
